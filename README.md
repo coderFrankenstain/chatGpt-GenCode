@@ -12,3 +12,6 @@
 ## 详细教程地址
 
 https://juejin.cn/user/3878732751184983
+
+喜欢的朋友可以加入我的discord讨论
+https://discord.gg/uZYKGuJS
